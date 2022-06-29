@@ -8,5 +8,6 @@ I am currently passionate about making contributing to open-source more approach
 </p>
 
 <a href="https://www.linkedin.com/in/maitri-mou/?originalSubdomain=ca" > Hey using this link find me on Linkedin ![image](https://user-images.githubusercontent.com/108010278/176561092-127ff857-c846-45ad-826e-6e7c6b70c8d1.png
- </a>
+ 
+</a>
 
