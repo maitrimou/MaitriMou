@@ -7,6 +7,3 @@ I am currently passionate about making contributiion to tech community, I love h
 
 <a href="https://www.linkedin.com/in/maitri-mou/?originalSubdomain=ca" > 🌍 to learn more about me and my profile, please checkout my Linkedin page ✌ </a>
 
-div {
-font-size: small;
-}
