@@ -7,5 +7,5 @@ Nice to join Github Community to learn more about coding.
 I am currently passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community through my role as a It support specialist at Lightspeed Commerce.
 </p>
 
-<h1> Here is my social media presence 🌎:https://www.linkedin.com/in/maitri-mou/?originalSubdomain=ca </h2/ 
+<href= Here is my social media presence "https://www.linkedin.com/in/maitri-mou/?originalSubdomain=ca" </a/ 
 
