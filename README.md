@@ -6,6 +6,6 @@ I am currently passionate about making contributiion to tech community, I love h
 </p>
 
 <a href="https://www.linkedin.com/in/maitri-mou/?originalSubdomain=ca" > 🌍 to learn more about me and my profile, please checkout my Linkedin page ✌ </a>
-@settings {
-  font-size: 75;
+p {
+  font-size: small;
 }
