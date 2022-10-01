@@ -11,10 +11,10 @@ I am currently passionate about making contributiion to tech community, I love h
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
-- 🔭 I’m currently working on NodeJs
+- 🔭 I’m currently working on SQL AND PYTHON.
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Frontend
-- 📫 How to reach me: saviomartin2020@gmail.com
+- 📫 How to reach me: mou1@uwindsor.ca
 - 😄 My website: https://savio.works/
 - ⚡ Fun fact: I'm comming to teen
 
