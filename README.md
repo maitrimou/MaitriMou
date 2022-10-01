@@ -48,4 +48,4 @@ I am currently passionate about making contributiion to tech community, I love h
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
 </p>
-⭐️ From [Maitri Mou)](https://github.com/saviomartin)
+⭐️ From [Maitri Mou)](https://github.com/MaitriMou)
